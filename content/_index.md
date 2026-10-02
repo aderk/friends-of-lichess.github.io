@@ -2,6 +2,9 @@
 title: "Friends of Lichess"
 description: "Promoting libre, open-source online chess for educational and competitive purposes."
 featured_image: "/images/king.jpg"
+cta:
+  text: "Donate"
+  href: "/donate/"
 ---
 
 Friends of Lichess is a 501(c)(3) non-profit organization dedicated to supporting the Lichess ecosystem. We believe that everyone should have access to high-quality chess tools and resources, forever, without barriers.
