@@ -45,6 +45,7 @@ and we'll help.
 
 Friends of Lichess, Inc. is a Massachusetts nonprofit corporation and a
 501(c)(3) organization (EIN 33-1496513). Mailing address: 82 Wendell Ave,
-Suite 100, Pittsfield, MA 01201. A description of our programs and a copy of
-our latest financial information are available on request from
+Suite 100, Pittsfield, MA 01201. A description of our programs and
+information about our revenues and expenses, including administration and
+fundraising costs, are available by contacting us at that address or at
 [donations@friendsoflichess.org](mailto:donations@friendsoflichess.org).
