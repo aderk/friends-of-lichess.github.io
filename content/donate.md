@@ -11,9 +11,8 @@ Contributions are tax-deductible to the extent permitted by law.
 ## How contributions are used
 
 Contributions are solicited for the purposes of Friends of Lichess, which
-advances chess education, including instruction, practice, and amateur
-competition, by supporting free, publicly accessible chess platforms and
-programs. **All
+advances chess education by supporting free, publicly accessible chess
+platforms and programs. **All
 contributions become the property of Friends of Lichess, and its Board of
 Directors retains full discretion and control over their use.** Friends of
 Lichess intends to use contributions primarily to make grants supporting the
