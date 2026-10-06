@@ -1,34 +1,28 @@
 ---
 title: "Donate"
-description: "Support Friends of Lichess, a US 501(c)(3) charitable organization."
+description: "Support Friends of Lichess, a 501(c)(3) public charity promoting education and awareness of the game of chess."
 ---
 
-Friends of Lichess is a US 501(c)(3) charitable organization (EIN 33-1496513).
-Contributions are tax-deductible to the extent permitted by law.
+Friends of Lichess, Inc. is a 501(c)(3) public charity (EIN 33-1496513) whose
+mission is to promote education and awareness of the game of chess. We do this
+by making grants to qualifying charitable organizations, currently including
+Lichess.org, the free chess platform operated by Association Lichess in France.
 
 {{< donate-button >}}
 
 ## How contributions are used
 
-Contributions are solicited for the purposes of Friends of Lichess, which
-advances chess education by supporting free, publicly accessible chess
-platforms and programs. **All
-contributions become the property of Friends of Lichess, and its Board of
-Directors retains full discretion and control over their use.** Friends of
-Lichess intends to use contributions primarily to make grants supporting the
-free lichess.org platform operated by the French association Lichess,
-but grants are made only for projects the Board has reviewed and approved as
-furthering Friends of Lichess's own charitable purposes, and the Board may in
-its sole discretion apply funds to other charitable uses consistent with its
-mission.
+Contributions are tax-deductible to the extent allowed by law. Friends of
+Lichess retains full discretion and control over the use of all donated funds,
+and donations cannot be earmarked for any specific organization. All grants are
+approved by our Board of Directors in furtherance of our charitable purposes.
 
 ## Questions
 
 ### Is my contribution tax-deductible?
 
-Friends of Lichess is a 501(c)(3) organization recognized by the IRS, so
-contributions are deductible to the extent permitted by law. You'll receive an
-emailed receipt for your records.
+Yes, to the extent allowed by law. You'll receive an emailed receipt for your
+records.
 
 ### Will my contribution show up on my lichess.org account?
 
